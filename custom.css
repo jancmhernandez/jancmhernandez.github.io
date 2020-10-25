@@ -1,0 +1,45 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url("photos/banner.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.display-1,
+.display-4 {
+    text-align: left;
+}
+
+.intro {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.head {
+    text-align: center;
+    padding: 3%;
+}
+
+.exp {
+    padding-left: 12%;
+    padding-right: 12%;
+    background-color: rgb(189, 228, 255);
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.tail {
+    padding-bottom: 3%;
+}
+
+.footer-color {
+    background: rgb(189, 228, 255);
+}
